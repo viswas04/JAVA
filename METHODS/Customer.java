@@ -5,8 +5,8 @@ public class Customer {
 	Customer(){
 		System.out.println("Hello no argument constructor !!");
 	}
-	//INSTANCE BLOCK
-	{
+	//STATIC INITIALIZER BLOCK
+	static {
 		System.out.println("Hello Instance Block !!!");
 	}
 
