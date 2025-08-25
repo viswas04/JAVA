@@ -40,3 +40,18 @@ Used to assign values to variables and can combine assignment with arithmetic op
 
 +=, -=, *=, /=, %= Compound assignments
 
+Relational Operators
+
+Compare two values and return a boolean result:
+
+== Equal to
+
+!= Not equal to
+
+> Greater than
+
+< Less than
+
+>= Greater than or equal to
+
+<= Less than or equal to
