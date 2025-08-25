@@ -1,0 +1,42 @@
+In Java, operators are special symbols or keywords that perform specific operations on one, two, or three operands and return a result. They are essential for performing arithmetic calculations, logical comparisons, assignments, and manipulating data within Java programs.
+
+Types of Java Operators
+
+Arithmetic Operators
+
+Perform basic mathematical operations such as addition (+), subtraction (-), multiplication (*), division (/), and modulus (%) which gives the remainder.
+
+Examples:
+
++ Addition
+
+- Subtraction
+
+* Multiplication
+
+/ Division
+
+% Modulus
+
+Unary Operators
+
+Work with a single operand to increment (++), decrement (--), negate (-), or invert boolean values (!).
+
+++ Increment (pre and post)
+
+-- Decrement (pre and post)
+
++ Unary plus
+
+- Unary minus
+
+! Logical NOT
+
+Assignment Operators
+
+Used to assign values to variables and can combine assignment with arithmetic operations:
+
+= Simple assignment
+
++=, -=, *=, /=, %= Compound assignments
+
