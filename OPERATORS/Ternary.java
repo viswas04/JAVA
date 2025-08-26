@@ -7,7 +7,7 @@ public class Ternary {
 		int m = sc.nextInt();
 		String g = (m >= 91) ? "A" : (m >= 81) ? "B" : (m >= 71) ? "C" : (m >= 61) ? "D" : (m >= 35) ? "E" : "F";
 		System.out.println("Grade is : " + g);
-		//sc.close();
+		sc.close();
 	
 	}
 }
