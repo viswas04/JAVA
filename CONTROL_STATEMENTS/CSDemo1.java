@@ -2,7 +2,7 @@ import java.util.Scanner;
 //If you want to execute only one condition you no need to give {}
 //If you want to check through two conditions you can use {}
 //They works with or without the {}
-If we have only one statement to execute, whenever the if condition is true we can go without the {}
+//If we have only one statement to execute, whenever the if condition is true we can go without the {}
 If we want to execute multiple statements whenever the if condition is true then we need the {}
 If we write the if else inside the if else statements then they are called as nested if else statements 
 public class CSDemo1 {
