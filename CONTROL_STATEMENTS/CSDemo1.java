@@ -4,7 +4,7 @@ import java.util.Scanner;
 //They works with or without the {}
 //If we have only one statement to execute, whenever the if condition is true we can go without the {}
 //If we want to execute multiple statements whenever the if condition is true then we need the {}
-If we write the if else inside the if else statements then they are called as nested if else statements 
+//If we write the if else inside the if else statements then they are called as nested if else statements 
 public class CSDemo1 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
