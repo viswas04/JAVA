@@ -5,7 +5,7 @@ public class MovieTheatre {
 		//Scanner sc = new Scanner(System.in);
 		//System.out.println("Enter show : ");
 		//String showtime = sc.next();
-		//int actualprice = 0;
+		int actualprice = 0;
 		String showname = "";
 
 		switch (showtime) {
