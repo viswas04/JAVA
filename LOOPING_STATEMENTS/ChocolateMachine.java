@@ -12,7 +12,6 @@ public class ChocolateMachine {
 			int free = (bought / buy) * get;
 			int total = bought + free;
 			int wrappers = total;
-
 			while (wrappers >= wrap_free) {
 				int extra = wrappers / wrap_free;
 				total = total + extra;
